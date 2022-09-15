@@ -1,6 +1,6 @@
 I'm a novice programmer who focuses on learing the basics of java
 
-The material that I was able to learn since August 2021 is listed below:
+The material that I was able to learn since May 2021 is listed below:
 
 - Eclipse and IntelliJ basics,
 - Java Loops (For and While),
